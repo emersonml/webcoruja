@@ -1,0 +1,5 @@
+  AuthName "Acesso Restrito"
+  AuthType Basic
+  AuthUserFile /var/www/ativatelecom-al/html/cgi/sh/controle/.htpasswd
+  
+  require valid-user
