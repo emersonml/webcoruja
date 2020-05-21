@@ -10,7 +10,7 @@ a = 'nossa aula de hoje'
 puts a.split(" ")
 
 
-b = "nova"
+b = "nova_"
 c = 1
 
 a = "nossa aula de hoje" + c.to_s
