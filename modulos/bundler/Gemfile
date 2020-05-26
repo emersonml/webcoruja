@@ -1,0 +1,8 @@
+source 'http://rubygems.org'
+
+gem 'byebug'
+gem 'cpf_utils'
+gem 'faker', '~>2.11.0'
+
+
+#use bundle install para instalar o byebug e as outras gems
